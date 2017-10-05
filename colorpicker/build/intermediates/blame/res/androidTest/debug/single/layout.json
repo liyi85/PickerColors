@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/andrearodriguez/Documents/Androide/NEXTU/APPS/PckerColors/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_dialog.xml",
+        "source": "/Users/andrearodriguez/Documents/Androide/NEXTU/APPS/PckerColors/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/andrearodriguez/Documents/Androide/NEXTU/APPS/PckerColors/colorpicker/build/intermediates/res/merged/androidTest/debug/layout/color_picker_swatch.xml",
+        "source": "/Users/andrearodriguez/Documents/Androide/NEXTU/APPS/PckerColors/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_swatch.xml"
+    }
+]

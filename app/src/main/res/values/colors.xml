@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBackgroung">#424242</color>
+
+
+
+    <color name="red">#F6402C</color>
+    <color name="pink">#EB1460</color>
+    <color name="purple">#9C1AB1</color>
+    <color name="deep_purple">#4527a0</color>
+
+
+    <color name="blue">#42a5f5</color>
+    <color name="light_blue">#82b1ff</color>
+    <color name="blue_dark">#1a237e</color>
+    <color name="cian">#00838f</color>
+
+
+    <color name="green">#004d40</color>
+    <color name="teal">#26a69a</color>
+    <color name="teal_light">#80cbc4</color>
+    <color name="green_light">#43a047</color>
+
+    <color name="lime">#b2ff59</color>
+    <color name="lime_dark">#827717</color>
+    <color name="yelow">#fdd835</color>
+    <color name="amber">#ff8f00</color>
+
+    <color name="orange">#f57c00</color>
+    <color name="deep_orange">#ff7043</color>
+    <color name="dark_orange">#ff3d00</color>
+    <color name="brown">#795548</color>
+
+    <array name="colors">
+        <item>@color/red</item>
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/deep_purple</item>
+        <item>@color/blue</item>
+        <item>@color/light_blue</item>
+        <item>@color/blue_dark</item>
+        <item>@color/cian</item>
+        <item>@color/green</item>
+        <item>@color/teal</item>
+        <item>@color/teal_light</item>
+        <item>@color/green_light</item>
+        <item>@color/lime</item>
+        <item>@color/lime_dark</item>
+        <item>@color/yelow</item>
+        <item>@color/amber</item>
+        <item>@color/orange</item>
+        <item>@color/deep_orange</item>
+        <item>@color/dark_orange</item>
+        <item>@color/brown</item>
+    </array>
+
+</resources>
