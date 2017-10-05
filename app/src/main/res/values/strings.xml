@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Preciona sobre la Figura</string>
+    <string name="app_name">PickerColor</string>
     <string name="tituloColorPicker">Selecciona un color</string>
+    <string name="tituloInicio">Preciona la Imagen</string>
 </resources>
